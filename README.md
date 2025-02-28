@@ -21,7 +21,7 @@ my-timeline-repo/
 1. **Launch as a Web App** (Binder + Voila):
    - Click the Binder badge below to launch the notebook in a cloud environment, served by Voila. No local installation needed!
    
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IRenebow/my-timeline-repo/HEAD?urlpath=%2Fdoc%2Ftree%2Fvoila%2Frender%2Ftimeline.ipynb)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IRenebow/my-timeline-repo/HEAD?urlpath=voila/render/timeline.ipynb)
 
 2. **Local Use** (Jupyter Lab/Notebook):
    1. Clone this repository:  
